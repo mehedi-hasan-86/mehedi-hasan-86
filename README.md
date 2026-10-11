@@ -1,6 +1,7 @@
 # Hi, I'm Mehedi Hasan 👋
 
 **CSE Student | Competitive Programmer | Building HuLex**
+
 I'm a Computer Science and Engineering student at **NITER, University of Dhaka, Bangladesh**.
 I'm passionate about **coding, problem-solving, and building HuLex — Human Life Excellence**.
 
