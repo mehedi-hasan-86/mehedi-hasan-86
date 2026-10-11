@@ -1,4 +1,4 @@
-# Hi, I'm Mehedi Hasan 👋
+# Hi, I'm Md. Mehedi Hasan 👋
 
 **CSE Student | Competitive Programmer | Building HuLex**
 
