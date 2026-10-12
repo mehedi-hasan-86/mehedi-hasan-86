@@ -12,8 +12,8 @@ I'm passionate about **coding, problem-solving, and building HuLex — Human Lif
 
 ###  Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/mehedi-cse86/)
-- [Codeforces](https://codeforces.com/)
-- [LeetCode](https://leetcode.com/)
+- [Codeforces](https://codeforces.com/profile/Mehedi_86)
+- [LeetCode](https://leetcode.com/u/Mehedi_086/)
 
 ---
 
